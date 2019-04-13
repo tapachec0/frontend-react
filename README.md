@@ -4,5 +4,5 @@ Projeto desenvolvido na Semana Omnistack.
 # O que é a aplicação?
 Simula um dropbox de arquivos.
 
-#Tecnologias utilizadas:
+# Tecnologias utilizadas:
 React e Heroku.
